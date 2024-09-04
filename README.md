@@ -1,6 +1,4 @@
-You can call me Zedix
-
-Currently trying to get enough motivation to learn how to write sorting and searching algorithms
+uhh
 
 <!---
 ZediX28/ZediX28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
